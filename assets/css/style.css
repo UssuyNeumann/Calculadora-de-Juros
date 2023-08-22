@@ -1,0 +1,15 @@
+:root{
+    --fundo-azul: #22577a;
+    --azul: #38a3a5;
+    --verde-escuro: #57cc99;
+    --verde-medio: #80ed99;
+    --verde-claro: #c7f9cc;
+    --fundo-cinza: #2f3e46;
+    --cinza-verde-medio: #52796f;
+
+} 
+
+body {
+    background-color: var(--fundo-cinza);
+}
+
